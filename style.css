@@ -1,3 +1,7 @@
-body {
+div.content {
+	text-align: center
+}
+
+div.notice {
 	text-align: center
 }
